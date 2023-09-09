@@ -1,0 +1,6 @@
+/certificates*
+/*idea/*
+*.impl
+*.csv
+*.gz
+*.xml
